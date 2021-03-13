@@ -1,0 +1,15 @@
+{
+  "file_name": "BIOS-12.2-33.exe",
+  "servers": [
+				{
+				  "url" : "http://192.168.10.10",
+				  "username" : "root",
+				  "password" : "Password"
+				},
+				{
+				  "url" : "http://192.168.10.11",
+				  "username" : "root",
+				  "password" : "Password"
+				}
+			]
+}

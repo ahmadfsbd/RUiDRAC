@@ -1,0 +1,20 @@
+{
+  "file_name": "BIOS.exe",
+  "servers": [
+				{
+				  "url" : "http://192.168.110.16",
+				  "username" : "root",
+				  "password" : "Dell0SS!"
+				},
+				{
+				  "url" : "http://192.168.110.15",
+				  "username" : "root",
+				  "password" : "Dell0SS!"
+				},
+				{
+				  "url" : "http://192.168.110.14",
+				  "username" : "root",
+				  "password" : "Dell0SS!"
+				}
+			]
+}
